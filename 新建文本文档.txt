@@ -1,0 +1,11 @@
+git remote rm origin  删除之前的链接
+
+
+
+
+今天提交git仓库的时候，遇到了如截图所示的问题，提示Your branch is up-to-date with 'origin/master'.
+
+
+
+查了些资料后，发现其根本原因是版本分支的问题
+这时候我们就需要新建一个分支
